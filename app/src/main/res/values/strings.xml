@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HeaderFooterRecView</string>
+    <string name="this_is_a_header">This is a header</string>
+    <string name="footer">footer</string>
+    <string name="first_name">First name</string>
+    <string name="sur_name">Sur name</string>
+</resources>
